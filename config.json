@@ -1,11 +1,11 @@
 {
-    "ip": "game5.falix.cc:59941",
+    "ip": "game5.falixserver.net",
     "port": "59941",
     "name": "cooperniko",
     "password": "Philjhon1122",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "false",
+    "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
